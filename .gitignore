@@ -40,3 +40,17 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+
+.gradle
+/build/
+**/out
+**/build
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.class
+/out/
